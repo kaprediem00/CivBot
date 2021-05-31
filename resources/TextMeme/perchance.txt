@@ -22,6 +22,7 @@ outputPrepend
   I heard that
   They won't admit it, but
   Can't believe ^1/5
+  Breaking news:
 
 outputAppend
   . LMFAOOOOOOOO
@@ -127,6 +128,7 @@ otheractor
   Erdogan
   Xi Jinping
   Bill Gates
+  Spanish Inquisition
 
 otherplace
   0,0
@@ -210,6 +212,7 @@ funnyplayer
   ashnwill
   awoo
   Bagi
+  Banyough
   bgbba
   Bonkill
   Convoy
@@ -239,6 +242,7 @@ funnyplayer
   Jayms
   JuniorTide
   kaprediem
+  kloudei
   Lodish
   LordOfMarzipan
   Lysika_Lantariel
@@ -357,6 +361,7 @@ unfunnynation
   Kanagawa
   Königsberg
   Laconia
+  Landa
   Leuven
   Loveshack
   Luxemburg
@@ -565,6 +570,9 @@ drama
   [nation] doesn't exist and I can prove it with server logs
   [player] built a bastioned, trenched, obsidian spider grinder a hundred blocks from [nation]
   [nation] annexes [nation]
+  [actor] cursed at [player] and [player]
+  [actor] sent [player] to the Shadow Realm
+  [player] declares [nation] as the 51st state
 
 twist
   and [player] reviewed this from a squareblobist lens
@@ -624,6 +632,7 @@ twist
   and now [player] is taking off work to break the vault
   and all of [nation]'s citizens transfer citizenship
   and [player] gets a vaccine
+  , then challenges [nation] to PvP
 
 respond
   [respondWord]
